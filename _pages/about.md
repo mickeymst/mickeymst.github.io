@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About me
-Hello, my name is __Michiharu Yamashita （山下宙元）__. [\[CV\]](https://mickeymst.github.io/files/CV) 
+Hello, my name is __Michiharu Yamashita （山下宙元）__. [\[CV\]](https://mickeymst.github.io/files/CV_MichiharuYamashita) 
 
 I received my Master's degree of Engineering from Tokyo Institute of Technology, where I majored in [Computational Intelligence and Systems Science](http://www.igs.titech.ac.jp/english/departments/dis.html) and my Bachelor's degree of Engineering from University of Tsukuba, where I studied [Management Science and Engineering](https://www.sk.tsukuba.ac.jp/College/english/major/management.html). I also have work experience as a research scientist and machine learning engineer for two years after my Master's degree.
 
