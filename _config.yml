@@ -11,9 +11,9 @@ title                    : "Michiharu Yamashita / Michiharu Yamashita's Website"
 title_separator          : "-"
 name                     : &name "Michiharu Yamashita"
 description              : &description "Machine Learning Engineer"
-url                      : https://mckeymst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mickeymst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mckeymst.github.io"
+repository               : "mickeymst.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
