@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Computational Intelligence and System Science, Tokyo Institute of Technology, Japan, 2017
+* M.Eng. in Computational Intelligence and System Science, Tokyo Institute of Technology, Japan, 2017  
   Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)  
-* B.Eng. in in Management Science and Engineering, University of Tsukuba, 2015
+* B.Eng. in in Management Science and Engineering, University of Tsukuba, 2015  
   Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)
 
 
