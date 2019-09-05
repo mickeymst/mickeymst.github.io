@@ -44,5 +44,5 @@ Talked about how to apply geo data and technologies into our business
 
 - __Michiharu Yamashita__  
 **Open Source Conference 2018 Tokyo Spring**  
-Talked about our open-source components for data integration and preparation, [\["BigGorilla"\]](https://www.biggorilla.org/).  
+Talked about our open-source components for data integration and preparation, [BigGorilla](https://www.biggorilla.org/).  
 [\[Page\]](https://www.ospn.jp/osc2018-spring/modules/article/article.php?articleid=6)
