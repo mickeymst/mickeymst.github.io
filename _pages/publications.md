@@ -40,7 +40,7 @@ Received "The Second Best Master Thesis Award"
 - Masafumi Tsurutani and __Michiharu Yamashita__  
 **Location Intelligence and Big Data Conference 2018**  
 Talked about how to apply geo data and technologies into our business  
-[\[Page\]]（https://www.blogwatcher.co.jp/new-s/20180914/）
+[\[Page\]](https://www.blogwatcher.co.jp/new-s/20180914/)
 
 - __Michiharu Yamashita__  
 **Open Source Conference 2018 Tokyo Spring**  
