@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.Eng. in Computational Intelligence and System Science, Tokyo Institute of Technology, Japan, 2017
-  Supervised by [Professor Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)  
+  Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)  
 * B.Eng. in in Management Science and Engineering, University of Tsukuba, 2015
-  Supervised by [Professor Emeritus Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)
+  Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)
 
 
 Work experience
@@ -29,15 +29,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -49,13 +40,16 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+    
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Currently signed in to 43 different slack teams  
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
