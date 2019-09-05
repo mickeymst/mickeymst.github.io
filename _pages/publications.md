@@ -20,11 +20,15 @@ Proceedings of the 15th SIGMORPHON Workshop on Computational Research in Phoneti
 ## Domestic Conferences
 - Kent Kawai, __Michiharu Yamashita__, and Yutaka Matsuo  
 **Face Recognition System Based on Convolutional Neural Network Robust to Occlusion and Low Quality Images**  
-The 31st Annual Conference of the Japanese Society for Artificial Intelligence. JSAI, 2017.
+Proceedings of the 31st Annual Conference of the Japanese Society for Artificial Intelligence. JSAI, 2017.
+
+- __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
+**Study on Improvement of Happiness by Controlling Room Temperature from Wearable Sensors**  
+Proceedings of the 2017 IEICE General Conference. IEICE, 2017. 
 
 - __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
 **Enhancing Collective Happiness by Controlling Room Temperature Using Big Data from Wearable Sensors**  
-The 2016 IEICE General Conference. IEICE, 2016. 
+IEICE Technical Report on Life Intelligence and Office Information Systems, vol 115, no 486, 2016.  
 
 
 ## Working Papers
