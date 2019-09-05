@@ -1,3 +1,9 @@
+---
+title: ""
+permalink: /awards/
+author_profile: true
+---
+
 ## Awards
 - April 2018: __Recruit Holdings Freshman Award First Prize 2018__  
 __1st__ in the whole of Recruit Holdings Group of over 500 freshmen
