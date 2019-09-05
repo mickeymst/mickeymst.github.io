@@ -27,13 +27,15 @@ The 31st Annual Conference of the Japanese Society for Artificial Intelligence. 
 The 2016 IEICE General Conference. IEICE, 2016. 
 
 
-## Working Paper
+## Working Papers
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
-Received "The Second Best Master Thesis Award"
+Thesis for Master's degree in my department  
+Received __"The Second Best Master Thesis Award"__
 
 - __Michiharu Yamashita__ and Ushio Sumita  
 **Network Analysis of Smartphone Applications Using Ownerships and Competitiveness**  
+Thesis for Bachelor's degree in my department  
 
 
 ## Talks and Presentations
