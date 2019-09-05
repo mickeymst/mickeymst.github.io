@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michiharu Yamashita / Michiharu Yamashita's Website"
+title                    : "Michiharu Yamashita"
 title_separator          : "-"
 name                     : &name "Michiharu Yamashita"
 description              : &description "Machine Learning Engineer"
