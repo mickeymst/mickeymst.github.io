@@ -31,14 +31,14 @@ The 2016 IEICE General Conference. IEICE, 2016.
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
 Thesis for Master's degree in my department  
-Received __"The Second Best Master Thesis Award"__
+Received __"The Second Best Master's Thesis Award"__
 
 - __Michiharu Yamashita__ and Ushio Sumita  
 **Network Analysis of Smartphone Applications Using Ownerships and Competitiveness**  
 Thesis for Bachelor's degree in my department  
 
 
-## Talks and Presentations
+## Talks
 - Masafumi Tsurutani and __Michiharu Yamashita__  
 **Location Intelligence and Big Data Conference 2018**  
 Talked about how to apply geo data and technologies into our business  
