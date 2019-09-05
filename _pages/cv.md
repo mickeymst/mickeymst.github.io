@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Eng. in Computational Intelligence and System Science, Tokyo Institute of Technology, Japan, 2017
+  Supervised by [Professor Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)  
+* B.Eng. in in Management Science and Engineering, University of Tsukuba, 2015
+  Supervised by [Professor Emeritus Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)
+
 
 Work experience
 ======
