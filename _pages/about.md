@@ -16,8 +16,8 @@ I received my Master's degree of Engineering from Tokyo Institute of Technology,
 
 ## Research Interests
 - Computational Social Science
-- Social Informatics
-- Human Behavior
 - Social Network
+- Human Behavior
 - Machine Learning
+- Natural Language Processing
 - Information Visualization
