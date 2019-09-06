@@ -20,3 +20,4 @@ I received my Master's degree of Engineering from Tokyo Institute of Technology,
 - Human Behavior
 - Social Network
 - Machine Learning
+- Information Visualization
