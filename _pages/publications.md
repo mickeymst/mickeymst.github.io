@@ -38,13 +38,13 @@ IEICE Technical Report on Life Intelligence and Office Information Systems, vol 
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
 Thesis for Master's degree in my department  
-*Supervised by Professor [Kazuo Yano]*(https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)
+*Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
 Received __"The Second Best Master's Thesis Award"__
 
 - __Michiharu Yamashita__ and Ushio Sumita  
 **Network Analysis of Smartphone Application's Competitiveness Based on Possessions**  
 Thesis for Bachelor's degree in my department  
-*Supervised by Professor Emeritus [Ushio Sumita]*(https://researchmap.jp/read0078304/?lang=english)
+*Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
 ## Talks
 
