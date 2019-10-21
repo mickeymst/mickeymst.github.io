@@ -33,7 +33,7 @@ Proceedings of the 2017 IEICE General Conference. IEICE, 2017.
 IEICE Technical Report on Life Intelligence and Office Information Systems, vol 115, no 486, 2016.  
 
 
-## Working Papers
+## Master's and Bachelor's Thesis
 
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
