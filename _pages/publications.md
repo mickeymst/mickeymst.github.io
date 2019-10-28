@@ -9,7 +9,7 @@ author_profile: true
 
 - __Michiharu Yamashita__, Shota Katsumata, and Yusuke Fukasawa  
 **Discovery of User Preferences from Big Geospatial Data Using Topic Models**  
-IEEE International Conference on Big Data (Big Data). IEEE, 2018.  
+Proceedings of the IEEE International Conference on Big Data (Big Data). IEEE, 2018.  
 [\[Paper\]](https://ieeexplore.ieee.org/document/8622625)
 
 - __Michiharu Yamashita__, Hideki Awashima, and Hidekazu Oiwa  
