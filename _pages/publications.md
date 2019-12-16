@@ -42,7 +42,8 @@ Thesis for Master's degree in my department
 Received __"The Second Best Master's Thesis Award"__
 
 - __Michiharu Yamashita__ and Ushio Sumita  
-**Network Analysis of Smartphone Application's Competitiveness Based on Possessions**  
+**Network Analysis and Visualization for Mobile Applications’ Competitiveness Based on Logs of
+Installing and Uninstalling Applications**  
 Thesis for Bachelor's degree in my department  
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
