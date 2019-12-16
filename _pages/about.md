@@ -16,7 +16,7 @@ I received Master of Engineering in [Computational Intelligence and Systems Scie
 
 ## Research Interests
 - Computational Social Science
-- Social Network
+- Social Networks
 - Human Behavior
 - Machine Learning
 - Natural Language Processing
