@@ -20,11 +20,11 @@ __Top 10%__ of 26,987 Graduate Students using the Loan at all universities in Ja
 August 2017
 
 - __Salutatorian of Tokyo Institute of Technology__ (Tokyo Institute of Technology)  
-Graduated The __2nd__ representative in the department  
+The __2nd__ representative in the department  
 March 2017
 
 - __The Second Best Master Thesis Award__ (Tokyo Institute of Technology)  
-Graduated ranking __2nd__ in the department  
+Master Thesis ranking __2nd__ in the department (2/62)  
 February 2017
 
 - __Full Tuition Exemption at Tokyo Institute of Technology__ (Tokyo Institute of Technology)  
