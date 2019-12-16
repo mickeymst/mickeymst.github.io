@@ -24,7 +24,7 @@ Graduated ranking __2nd__ in the department
 
 - April 2015\-March 2017: __Full Tuition Exemption at Tokyo Institute of Technology__ (Tokyo Institute of Technology)  
 
-- March 2016: __Recruit Holdings Internship Award First Prize 2016__ (Recruit Holdings)   
+- March 2015: __Recruit Holdings Internship Award First Prize 2016__ (Recruit Holdings)   
 __1st__ of over 30 intern students
 
 - April 2011\-March 2015: __Full Tuition Exemption at University of Tsukuba__ (University of Tsukuba)  
