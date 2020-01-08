@@ -48,6 +48,10 @@ Thesis for Bachelor's degree in my department
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
 ## Talks
+- __Michiharu Yamashita__  
+**CCSS Workshop on Computational Social Science 2020**  
+Talked about "Understanding Human Behavior with Wearable Sensors, Web Science, and Location Data"  
+[\[Page\]](https://www.rieb.kobe-u.ac.jp/en/seminar/seminar_all/2019/202001061030.html)
 
 - Masafumi Tsurutani and __Michiharu Yamashita__  
 **Location Intelligence and Big Data Conference 2018**  
