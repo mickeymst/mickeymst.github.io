@@ -12,7 +12,7 @@ redirect_from:
 Hello, my name is __Michiharu Yamashita__. [\[CV\]](https://mickeymst.github.io/files/CV_latest.pdf)
 
 I received M.Eng. in [Computational Intelligence and Systems Science](http://www.igs.titech.ac.jp/english/departments/dis.html) at Tokyo Institute of Technology, and B.Sc. in [Management Science and Engineering](https://www.sk.tsukuba.ac.jp/College/english/major/management.html) at University of Tsukuba. I also have two years work experience as a research and machine learning engineer in [Recruit Holdings](https://recruit-holdings.com/). My main research interest is in computational social science. I am especially interested in the area of human behavior modeling, network science, social networks, and machine
-learning. I have involved in various types of data like webpage, social media, wearable sensors, GPS location, text, etc. I am now seeking for available positions to resume my education in the Ph.D. program.
+learning.
 
 
 ## Research Interests
