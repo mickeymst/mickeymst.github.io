@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-*Here is my [CV](https://mickeymst.github.io/files/CV_latest.pdf). (Last updated on Dec. 10 2019)*
+*Here is my [CV](https://mickeymst.github.io/files/CV_latest.pdf). (Last updated on Sep. 26 2020)*
