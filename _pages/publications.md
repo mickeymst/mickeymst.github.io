@@ -14,6 +14,7 @@ WSDM 2022 Workshop on Computational JobsMarketplace, 2022.
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee
 **MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
 NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.
+__[Best Paper]__
 [\[Paper\]](https://pike.psu.edu/publications/mathai4ed21.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee
