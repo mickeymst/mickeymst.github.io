@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 ## International Conferences / Workshops
-- __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee 
+- __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
 **Looking Further intothe Future: Career Pathway Prediction**  
-WSDM 2022 Workshop on Computational JobsMarketplace, 2022.
+WSDM 2022 Workshop on Computational JobsMarketplace, 2022.  
 [\[Paper\]](https://mickeymst.github.io/publications/)
 
-- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee
+- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee. 
 **MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
-NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.
-__[Best Paper]__
+NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.  
+__[Best Paper]__  
 [\[Paper\]](https://pike.psu.edu/publications/mathai4ed21.pdf)
 
-- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee
+- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee. 
 **Classifying Math Knowledge Components via Task-Adaptive Pre-Trained BERT**  
 International Conference on Artificial Intelligence in Education (AIED). Springer, 2021.  
 [\[Paper\]](https://pike.psu.edu/publications/aied21.pdf)
