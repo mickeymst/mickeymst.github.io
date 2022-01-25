@@ -6,15 +6,29 @@ author_profile: true
 ---
 
 ## International Conferences / Workshops
+- __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee 
+**Looking Further intothe Future: Career Pathway Prediction**  
+WSDM 2022 Workshop on Computational JobsMarketplace, 2022.
+[\[Paper\]](https://mickeymst.github.io/publications/)
+
+- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee
+**MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
+NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.
+[\[Paper\]](https://pike.psu.edu/publications/mathai4ed21.pdf)
+
+- Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee
+**Classifying Math Knowledge Components via Task-Adaptive Pre-Trained BERT**  
+International Conference on Artificial Intelligence in Education (AIED). Springer, 2021.  
+[\[Paper\]](https://pike.psu.edu/publications/aied21.pdf)
 
 - __Michiharu Yamashita__, Shota Katsumata, and Yusuke Fukasawa  
 **Discovery of User Preferences from Big Geospatial Data Using Topic Models**  
-Proceedings of the IEEE International Conference on Big Data (Big Data). IEEE, 2018.  
+IEEE International Conference on Big Data (Big Data). IEEE, 2018.  
 [\[Paper\]](https://ieeexplore.ieee.org/document/8622625)
 
 - __Michiharu Yamashita__, Hideki Awashima, and Hidekazu Oiwa  
 **A Comparison of Entity Matching Methods between English and Japanese Katakana**  
-Proceedings of the 15th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology at EMNLP, 2018.   
+SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology at EMNLP, 2018.   
 [\[Paper\]](https://www.aclweb.org/anthology/W18-5809)
 
 
