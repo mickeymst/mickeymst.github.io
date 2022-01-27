@@ -14,7 +14,7 @@ WSDM 2022 Workshop on Computational JobsMarketplace, 2022.
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee  
 **MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
 NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.  
-__[Best Paper]__  
+__[Best Paper Award]__  
 [\[Paper\]](https://pike.psu.edu/publications/mathai4ed21.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee  
@@ -54,7 +54,7 @@ IEICE Technical Report on Life Intelligence and Office Information Systems, vol 
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
 Thesis for Master's degree in my department  
 *Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
-Received __"The Second Best Master's Thesis Award"__
+__[The Second Best Master's Thesis Award]__  
 
 - __Michiharu Yamashita__ and Ushio Sumita  
 **Network Analysis and Visualization for Mobile Applications’ Competitiveness Based on Logs of
