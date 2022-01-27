@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/
-
   - title: "Awards"
     url: /awards/    
     
   - title: "CV"
     url: https://mickeymst.github.io/files/CV_latest.pdf
+
+  - title: "Misc"
+    url: /portfolio/
