@@ -7,7 +7,7 @@ author_profile: true
 
 ## International Conferences / Workshops
 - __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
-**Looking Further intothe Future: Career Pathway Prediction**  
+**Looking Further into the Future: Career Pathway Prediction**  
 WSDM 2022 Workshop on Computational JobsMarketplace, 2022.  
 [\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
 
