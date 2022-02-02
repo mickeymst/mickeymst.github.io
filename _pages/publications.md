@@ -9,7 +9,7 @@ author_profile: true
 - __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
 **Looking Further intothe Future: Career Pathway Prediction**  
 WSDM 2022 Workshop on Computational JobsMarketplace, 2022.  
-[\[Paper\]](https://mickeymst.github.io/publications/)
+[\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee  
 **MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
