@@ -7,6 +7,10 @@ author_profile: true
 
 ## Awards
 
+- __FEGR Scholarship__ (Penn State)  
+Funds for Excellence in Graduate Recruitment Scholarships  
+2020\-2021
+
 - __Recruit Holdings Freshman Award First Prize 2018__ (Recruit Holdings)  
 __1st__ in the whole of Recruit Holdings Group of over 500 freshmen  
 April 2018
