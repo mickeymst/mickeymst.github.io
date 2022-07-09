@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## International Conferences / Workshops
+## Conference and Workshop Papers 
+- Jingyi Xie*, __Michiharu Yamashita*__, Zekun Cai, and Aiping Xiong  
+**A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
+Human Factors and Ergonomics Society (HFES), 2022.  
+[\[Paper\]]()
+
 - __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
 **Looking Further into the Future: Career Pathway Prediction**  
 WSDM 2022 Workshop on Computational JobsMarketplace, 2022.  
@@ -33,7 +38,7 @@ SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morph
 [\[Paper\]](https://www.aclweb.org/anthology/W18-5809)
 
 
-## Domestic Conferences
+## Domestic Conference
 
 - Kent Kawai, __Michiharu Yamashita__, and Yutaka Matsuo  
 **Face Recognition System Based on Convolutional Neural Network Robust to Occlusion and Low Quality Images**  
@@ -48,21 +53,26 @@ Proceedings of the 2017 IEICE General Conference. IEICE, 2017.
 IEICE Technical Report on Life Intelligence and Office Information Systems, vol 115, no 486, 2016.  
 
 
-## Master's and Bachelor's Thesis
+## Thesis
 
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
-Thesis for Master's degree in my department  
+Master's Thesis  
 *Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
 __[The Second Best Master's Thesis Award]__  
 
 - __Michiharu Yamashita__ and Ushio Sumita  
 **Network Analysis and Visualization for Mobile Applications’ Competitiveness Based on Logs of
 Installing and Uninstalling Applications**  
-Thesis for Bachelor's degree in my department  
+Bachelor's Thesis  
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
-## Talks
+## Miscellaneous
+- __Michiharu Yamashita__, Jia Tracy Shen, Hamoon Ekhtiari, Thanh Tran, and Dongwon Lee  
+**JAMES: Job Title Mapping with Multi-Aspect Embeddings and Reasoning**  
+arXiv preprint, 2022.  
+[\[Paper\]](https://arxiv.org/abs/2202.10739)
+
 - __Michiharu Yamashita__  
 **CCSS Workshop on Computational Social Science 2020**  
 Talked about "Understanding Human Behavior with Wearable Sensors, Web Science, and Location Data"  
