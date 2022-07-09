@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conference and Workshop Papers 
-- Jingyi Xie*, __Michiharu Yamashita*__, Zekun Cai, and Aiping Xiong  
+- Jingyi Xie*, __Michiharu Yamashita*__, Zekun Cai*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
 Human Factors and Ergonomics Society (HFES), 2022.  
 [\[Paper\]]()
