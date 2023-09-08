@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conferences
 - __Michiharu Yamashita__, Jia Tracy Shen, Thanh Tran, Hamoon Ekhtiari, and Dongwon Lee  
-**JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning** 
+**JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning**  
 IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
 [\[Paper\]](https://pike.psu.edu/publications/dsaa23.pdf)
 
