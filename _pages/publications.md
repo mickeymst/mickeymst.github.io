@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference and Workshop Papers 
+## Conferences
 - __Michiharu Yamashita__, Jia Tracy Shen, Thanh Tran, Hamoon Ekhtiari, and Dongwon Lee  
 **JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning** 
 IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
@@ -43,23 +43,7 @@ SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morph
 [\[Paper\]](https://www.aclweb.org/anthology/W18-5809)
 
 
-## Domestic Conference
-
-- Kent Kawai, __Michiharu Yamashita__, and Yutaka Matsuo  
-**Face Recognition System Based on Convolutional Neural Network Robust to Occlusion and Low Quality Images**  
-Proceedings of the 31st Annual Conference of the Japanese Society for Artificial Intelligence. JSAI, 2017.
-
-- __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
-**Study on Improvement of Happiness by Controlling Room Temperature from Wearable Sensors**  
-Proceedings of the 2017 IEICE General Conference. IEICE, 2017. 
-
-- __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
-**Enhancing Collective Happiness by Controlling Room Temperature Using Big Data from Wearable Sensors**  
-IEICE Technical Report on Life Intelligence and Office Information Systems, vol 115, no 486, 2016.  
-
-
 ## Thesis
-
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
 **Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
 Master's Thesis  
@@ -72,12 +56,8 @@ Installing and Uninstalling Applications**
 Bachelor's Thesis  
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
-## Preprints
-- __Michiharu Yamashita__, Jia Tracy Shen, Hamoon Ekhtiari, Thanh Tran, and Dongwon Lee  
-**JAMES: Job Title Mapping with Multi-Aspect Embeddings and Reasoning**  
-arXiv preprint, 2022.  
-[\[Paper\]](https://arxiv.org/abs/2202.10739)
 
+## Miscellaneous
 - __Michiharu Yamashita__  
 **CCSS Workshop on Computational Social Science 2020**  
 Talked about "Understanding Human Behavior with Wearable Sensors, Web Science, and Location Data"  
@@ -92,3 +72,15 @@ Talked about how to apply geo data and technologies into our business
 **Open Source Conference 2018 Tokyo Spring**  
 Talked about our open-source components for data integration and preparation, [BigGorilla](https://www.biggorilla.org/).  
 [\[Page\]](https://www.ospn.jp/osc2018-spring/modules/article/article.php?articleid=6)
+
+- Kent Kawai, __Michiharu Yamashita__, and Yutaka Matsuo  
+**Face Recognition System Based on Convolutional Neural Network Robust to Occlusion and Low Quality Images**  
+Proceedings of the 31st Annual Conference of the Japanese Society for Artificial Intelligence. JSAI, 2017.
+
+- __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
+**Study on Improvement of Happiness by Controlling Room Temperature from Wearable Sensors**  
+Proceedings of the 2017 IEICE General Conference. IEICE, 2017. 
+
+- __Michiharu Yamashita__, Nobuo Sato, and Kazuo Yano  
+**Enhancing Collective Happiness by Controlling Room Temperature Using Big Data from Wearable Sensors**  
+IEICE Technical Report on Life Intelligence and Office Information Systems, vol 115, no 486, 2016.
