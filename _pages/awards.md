@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Awards
+- __IEEE CIS Travel Grant__ (IEEE)  
+IEEE Travel Grant for DSAA 2023  
+October 2023
+  
+- __Best Paper Award at NeurIPS 2021 Workshop on Math AI for Education__ (NeurIPS)  
+2021
 
 - __FEGR Scholarship__ (Penn State)  
 Funds for Excellence in Graduate Recruitment Scholarships  
