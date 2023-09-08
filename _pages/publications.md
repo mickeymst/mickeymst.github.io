@@ -6,14 +6,19 @@ author_profile: true
 ---
 
 ## Conference and Workshop Papers 
+- __Michiharu Yamashita__, Jia Tracy Shen, Thanh Tran, Hamoon Ekhtiari, and Dongwon Lee  
+**JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning** 
+IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
+[\[Paper\]](https://pike.psu.edu/publications/dsaa23.pdf)
+
 - Jingyi Xie\*, __Michiharu Yamashita\*__, Zekun Cai\*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
 Human Factors and Ergonomics Society (HFES), 2022.  
-[\[Paper\]]()
+[\[Paper\]](https://journals.sagepub.com/doi/abs/10.1177/1071181322661252)
 
 - __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
 **Looking Further into the Future: Career Pathway Prediction**  
-WSDM 2022 Workshop on Computational JobsMarketplace, 2022.  
+WSDM 2022 Workshop on Computational Jobs Marketplace, 2022.  
 [\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee  
@@ -67,7 +72,7 @@ Installing and Uninstalling Applications**
 Bachelor's Thesis  
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
-## Miscellaneous
+## Preprints
 - __Michiharu Yamashita__, Jia Tracy Shen, Hamoon Ekhtiari, Thanh Tran, and Dongwon Lee  
 **JAMES: Job Title Mapping with Multi-Aspect Embeddings and Reasoning**  
 arXiv preprint, 2022.  
