@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Conferences
+- Jason Lucas, Adaku Uchendu, __Michiharu Yamashita__, Jooyoung Lee, Shaurya Rohatgi, and Dongwon Lee  
+**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**  
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+[\[Paper\]](https://pike.psu.edu/publications/emnlp23-f3.pdf)
+
+- Dominik Macko, Robert Moro, Adaku Uchendu, Jason Lucas, __Michiharu Yamashita__, Matus Pikuliak, Ivan Srba, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
+**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**  
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
+[\[Paper\]](https://pike.psu.edu/publications/emnlp23-multitude.pdf)
+
 - __Michiharu Yamashita__, Jia Tracy Shen, Thanh Tran, Hamoon Ekhtiari, and Dongwon Lee  
 **JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning**  
 IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
