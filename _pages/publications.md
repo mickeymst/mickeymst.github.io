@@ -19,7 +19,7 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
 - __Michiharu Yamashita__, Jia Tracy Shen, Thanh Tran, Hamoon Ekhtiari, and Dongwon Lee  
 **JAMES: Normalizing Job Titles with Multi-Aspect Graph Embeddings and Reasoning**  
 IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
-[\[Paper\]](https://pike.psu.edu/publications/dsaa23.pdf)
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10302559)
 
 - Jingyi Xie\*, __Michiharu Yamashita\*__, Zekun Cai\*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
