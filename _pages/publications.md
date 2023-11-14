@@ -60,7 +60,7 @@ SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morph
 
 ## Thesis
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
-**Does Temperature Change Happiness?: An Empirical Analysis Using Wearable Sensors in Offices**  
+**Does Office Temperature Affect Employee Happiness? An Empirical Study Using Wearable Sensors**  
 Master's Thesis  
 *Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
 __[The Second Best Master's Thesis Award]__  
