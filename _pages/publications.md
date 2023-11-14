@@ -21,6 +21,11 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
 IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEEE, 2023.
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10302559)
 
+- Yunqi Li, __Michiharu Yamashita__, Hanxiong Chen, Dongwon Lee, and Yongfeng Zhang  
+**Fairness in Job Recommendation under Quantity Constraints**  
+AAAI 2023 Workshop on AI for Web Advertising, 2023.  
+[\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
+
 - Jingyi Xie\*, __Michiharu Yamashita\*__, Zekun Cai\*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
 Human Factors and Ergonomics Society (HFES), 2022.  
