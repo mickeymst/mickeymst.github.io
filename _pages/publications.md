@@ -24,7 +24,7 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEE
 - Yunqi Li, __Michiharu Yamashita__, Hanxiong Chen, Dongwon Lee, and Yongfeng Zhang  
 **Fairness in Job Recommendation under Quantity Constraints**  
 AAAI 2023 Workshop on AI for Web Advertising, 2023.  
-[\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
+[\[Paper\]](https://pike.psu.edu/publications/aaai23-fair.pdf)
 
 - Jingyi Xie\*, __Michiharu Yamashita\*__, Zekun Cai\*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
