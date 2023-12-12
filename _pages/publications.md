@@ -60,7 +60,7 @@ SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morph
 
 ## Thesis
 - __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
-**Does Office Temperature Affect Employee Happiness? An Empirical Study Using Wearable Sensors**  
+**Machine Learning for Work Environment Optimization and Employee Well-being Improvement with Wearable Sensors**  
 Master's Thesis  
 *Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
 __[The Second Best Master's Thesis Award]__  
