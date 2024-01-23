@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Conferences
+- __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
+**Fake Resume Attacks: Data Poisoning on Online Job Platforms**  
+The ACM Web Conference 2024 (WWW), 2024.
+[\[Paper\]]()
+
 - Jason Lucas, Adaku Uchendu, __Michiharu Yamashita__, Jooyoung Lee, Shaurya Rohatgi, and Dongwon Lee  
 **Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**  
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023.
