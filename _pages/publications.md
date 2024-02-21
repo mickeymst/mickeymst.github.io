@@ -9,7 +9,7 @@ author_profile: true
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **Fake Resume Attacks: Data Poisoning on Online Job Platforms**  
 The ACM Web Conference 2024 (WWW), 2024.
-[\[Paper\]]()
+[\[Paper\]](https://pike.psu.edu/publications/www24.pdf)
 
 - Jason Lucas, Adaku Uchendu, __Michiharu Yamashita__, Jooyoung Lee, Shaurya Rohatgi, and Dongwon Lee  
 **Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**  
