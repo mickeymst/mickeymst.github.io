@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Conferences
+- Dominik Macko, Robert Moro, Adaku Uchendu, Ivan Srba, Jason Lucas, __Michiharu Yamashita__, Nafis Tripto, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
+**Authorship Obfuscation in Multilingual Machine-Generated Text Detection**  
+Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP), 2023.
+[\[Paper\]](https://pike.psu.edu/publications/emnlp23-multitude.pdf)
+
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **Fake Resume Attacks: Data Poisoning on Online Job Platforms**  
 The ACM Web Conference 2024 (WWW), 2024.
