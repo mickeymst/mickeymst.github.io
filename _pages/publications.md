@@ -9,7 +9,7 @@ author_profile: true
 - Dominik Macko, Robert Moro, Adaku Uchendu, Ivan Srba, Jason Lucas, __Michiharu Yamashita__, Nafis Tripto, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
 **Authorship Obfuscation in Multilingual Machine-Generated Text Detection**  
 Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP), 2023.
-[\[Paper\]](https://pike.psu.edu/publications/emnlp23-multitude.pdf)
+[\[Paper\]](https://arxiv.org/abs/2401.07867)
 
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **Fake Resume Attacks: Data Poisoning on Online Job Platforms**  
