@@ -8,7 +8,7 @@ author_profile: true
 ## Conferences
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **OpenResume: Advancing Career Trajectory Modeling with Open Anonymized and Synthetic Resume Datasets**  
-IEEE International Conference on Big Data (BigData). IEEE, 2024.  
+IEEE International Conference on Big Data (BigData). IEEE, 2024.
 [\[Paper\]](https://pike.psu.edu/publications/bigdata24-resume.pdf)
 
 - Dominik Macko, Robert Moro, Adaku Uchendu, Ivan Srba, Jason Lucas, __Michiharu Yamashita__, Nafis Tripto, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
@@ -38,38 +38,38 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA). IEE
 
 - Yunqi Li, __Michiharu Yamashita__, Hanxiong Chen, Dongwon Lee, and Yongfeng Zhang  
 **Fairness in Job Recommendation under Quantity Constraints**  
-AAAI 2023 Workshop on AI for Web Advertising, 2023.  
+AAAI 2023 Workshop on AI for Web Advertising, 2023.
 [\[Paper\]](https://pike.psu.edu/publications/aaai23-fair.pdf)
 
 - Jingyi Xie\*, __Michiharu Yamashita\*__, Zekun Cai\*, and Aiping Xiong  
 **A User Study on the Feasibility of Topic-aware Misinformation Warning on Social Media**  
-Human Factors and Ergonomics Society (HFES), 2022.  
+Human Factors and Ergonomics Society (HFES), 2022.
 [\[Paper\]](https://journals.sagepub.com/doi/abs/10.1177/1071181322661252)
 
 - __Michiharu Yamashita__, Yunqi Li, Thanh Tran, Yongfeng Zhang, and Dongwon Lee  
 **Looking Further into the Future: Career Pathway Prediction**  
-WSDM 2022 Workshop on Computational Jobs Marketplace, 2022.  
+WSDM 2022 Workshop on Computational Jobs Marketplace, 2022.
 [\[Paper\]](https://compjobs.github.io/assets/paper_8.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Ben Graff, and Dongwon Lee  
 **MathBERT: A Pre-trained Language Model for General NLP Tasks in Mathematics Education**  
-NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.  
-__[Best Paper Award]__  
+NeurIPS Workshop on Math AI for Education (MathAI4Ed), 2021.
+__[Best Paper Award]__
 [\[Paper\]](https://pike.psu.edu/publications/mathai4ed21.pdf)
 
 - Jia Tracy Shen, __Michiharu Yamashita__, Ethan Prihar, Neil Heffernan, Xintao Wu, Sean McGrew, and Dongwon Lee  
 **Classifying Math Knowledge Components via Task-Adaptive Pre-Trained BERT**  
-International Conference on Artificial Intelligence in Education (AIED). Springer, 2021.  
+International Conference on Artificial Intelligence in Education (AIED). Springer, 2021.
 [\[Paper\]](https://pike.psu.edu/publications/aied21.pdf)
 
 - __Michiharu Yamashita__, Shota Katsumata, and Yusuke Fukasawa  
 **Discovery of User Preferences from Big Geospatial Data Using Topic Models**  
-IEEE International Conference on Big Data (BigData). IEEE, 2018.  
+IEEE International Conference on Big Data (BigData). IEEE, 2018.
 [\[Paper\]](https://ieeexplore.ieee.org/document/8622625)
 
 - __Michiharu Yamashita__, Hideki Awashima, and Hidekazu Oiwa  
 **A Comparison of Entity Matching Methods between English and Japanese Katakana**  
-SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology at EMNLP, 2018.   
+SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology at EMNLP, 2018.
 [\[Paper\]](https://www.aclweb.org/anthology/W18-5809)
 
 
