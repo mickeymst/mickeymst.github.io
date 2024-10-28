@@ -8,7 +8,7 @@ author_profile: true
 ## Conferences
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **OpenResume: Advancing Career Trajectory Modeling with Open Anonymized and Synthetic Resume Datasets**  
-IEEE International Conference on Big Data (Big Data). IEEE, 2024.  
+IEEE International Conference on Big Data (BigData). IEEE, 2024.  
 [\[Paper\]](https://pike.psu.edu/publications/bigdata24-resume.pdf)
 
 - Dominik Macko, Robert Moro, Adaku Uchendu, Ivan Srba, Jason Lucas, __Michiharu Yamashita__, Nafis Tripto, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
@@ -64,7 +64,7 @@ International Conference on Artificial Intelligence in Education (AIED). Springe
 
 - __Michiharu Yamashita__, Shota Katsumata, and Yusuke Fukasawa  
 **Discovery of User Preferences from Big Geospatial Data Using Topic Models**  
-IEEE International Conference on Big Data (Big Data). IEEE, 2018.  
+IEEE International Conference on Big Data (BigData). IEEE, 2018.  
 [\[Paper\]](https://ieeexplore.ieee.org/document/8622625)
 
 - __Michiharu Yamashita__, Hideki Awashima, and Hidekazu Oiwa  
