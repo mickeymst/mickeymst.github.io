@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Conferences
+- __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
+**OpenResume: Advancing Career Trajectory Modeling with Open Anonymized and Synthetic Resume Datasets**  
+IEEE International Conference on Big Data (Big Data). IEEE, 2024.  
+[\[Paper\]](https://pike.psu.edu/publications/bigdata24-resume.pdf)
+
 - Dominik Macko, Robert Moro, Adaku Uchendu, Ivan Srba, Jason Lucas, __Michiharu Yamashita__, Nafis Tripto, Thai Le, Dongwon Lee, Jakub Simko, and Maria Bielikova  
 **Authorship Obfuscation in Multilingual Machine-Generated Text Detection**  
 Findings of the Association for Computational Linguistics: EMNLP 2024 (EMNLP), 2024.
