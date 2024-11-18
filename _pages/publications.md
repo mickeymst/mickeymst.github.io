@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 ## Conferences
+- Yeon-Chang Lee, JaeHyun Lee, __Michiharu Yamashita__, Dongwon Lee, and Sang-Wook Kim  
+**CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**  
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.
+[\[Paper\]](https://pike.psu.edu/publications/kdd25.pdf)
+
 - __Michiharu Yamashita__, Thanh Tran, and Dongwon Lee  
 **OpenResume: Advancing Career Trajectory Modeling with Open Anonymized and Synthetic Resume Datasets**  
 IEEE International Conference on Big Data (BigData). IEEE, 2024.
