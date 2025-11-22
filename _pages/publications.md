@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Conferences
+- __Michiharu Yamashita__, Mert Kosan, Yong Zhao, Can Liu, Shubham Agrawal, and Chiranjeet Chetia
+**Transformers for Payment Transactions via Periodic Positional Encoding and Contrastive Learning**  
+IEEE International Conference on Big Data (BigData). IEEE, 2025.
+[\[Paper\]]()
+
+- __Michiharu Yamashita__, Thanh Tran, Delvin Ce Zhang, and Dongwon Lee  
+**Unmasking Fake Careers: Detecting Machine-Generated Career Trajectories via Multi-layer Heterogeneous Graphs**  
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
+[\[Paper\]](https://aclanthology.org/2025.emnlp-main.1055/)
+
 - Yeon-Chang Lee, JaeHyun Lee, __Michiharu Yamashita__, Dongwon Lee, and Sang-Wook Kim  
 **CAPER: Enhancing Career Trajectory Prediction using Temporal Knowledge Graph and Ternary Relationship**  
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025.
