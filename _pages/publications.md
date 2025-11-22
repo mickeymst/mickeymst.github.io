@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Conferences
-- __Michiharu Yamashita__, Mert Kosan, Yong Zhao, Can Liu, Shubham Agrawal, and Chiranjeet Chetia
+- __Michiharu Yamashita__, Mert Kosan, Yong Zhao, Can Liu, Shubham Agrawal, and Chiranjeet Chetia  
 **Transformers for Payment Transactions via Periodic Positional Encoding and Contrastive Learning**  
 IEEE International Conference on Big Data (BigData). IEEE, 2025.
 [\[Paper\]]()
