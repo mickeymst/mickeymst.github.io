@@ -88,17 +88,19 @@ SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morph
 [\[Paper\]](https://www.aclweb.org/anthology/W18-5809)
 
 
-## Thesis
-- __Michiharu Yamashita__, Yoshihiro Miyake, and Kazuo Yano  
-**Machine Learning for Work Environment Optimization and Employee Well-being Improvement with Wearable Sensors**  
-Master's Thesis  
+## Dissertation/Thesis
+- __PhD Dissertation  
+**Advancing Machine Learning in the Job Domain: Modeling, Standardization, and Security**  
+*Supervised by Professor [Dongwon Lee](https://pike.psu.edu/dongwon/)*
+
+- __Master's Thesis__   
+**Machine Learning for Work Environment Optimization and Employee Well-being Improvement with Wearable Sensors**    
 *Supervised by Professor [Kazuo Yano](https://scholar.google.co.jp/citations?hl=ja&user=tqMGsJwAAAAJ)*  
 __[The Second Best Master's Thesis Award]__  
 
-- __Michiharu Yamashita__ and Ushio Sumita  
+- __Bachelor's Thesis__  
 **Network Analysis and Visualization for Mobile Applications’ Competitiveness Based on Logs of
 Installing and Uninstalling Applications**  
-Bachelor's Thesis  
 *Supervised by Professor Emeritus [Ushio Sumita](https://researchmap.jp/read0078304/?lang=english)*
 
 
